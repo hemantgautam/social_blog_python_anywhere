@@ -14,3 +14,5 @@ Note:
  - Two apps are created in this project "blog" and "users"
  - Add SMTP details in settings.py file(at bottom) to make forgot password functionality works.
  - Run "python manage.py migrate" command after project setup to make the model changes in your DB. 
+
+This project can be viewed in http://hemantgautam.pythonanywhere.com/
